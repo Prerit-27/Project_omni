@@ -1,0 +1,11 @@
+# CrewAI for multi-agent system
+crewai
+
+# Google Generative AI (Gemini) for resume and cover letter generation
+google-generativeai
+
+# LangChain for LLM-based text processing
+langchain
+
+# pdfkit & wkhtmltopdf for resume PDF generation
+pdfkit
